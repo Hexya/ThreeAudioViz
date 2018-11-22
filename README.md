@@ -1,5 +1,4 @@
-# Three.js Boilerplate
-
+# Three.js Audio experiment
 ## Setup
 
 * Execute `npm install`
